@@ -1,5 +1,9 @@
 # Geo-Secours
 
+Cette application a été développée par l'équipe EPITECH Montpellier à l'occasion du premier hackathon Gendarmerie, qui s'est déroulé du 28 au 20 Avril 2016 dans les locaux de la DGGN à Issy Les Moulineaux.
+Dépôt original : https://github.com/sicardf/Geo-Secours.git 
+
+
 * Ruby version : 2.3.0
 
 * Rails version : 4.2.6
